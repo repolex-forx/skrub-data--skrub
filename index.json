@@ -1,0 +1,11 @@
+{
+  "org": "skrub-data",
+  "repo": "skrub",
+  "versions": [
+    {
+      "commit": "e17834a89ead64bdbddf12ab070a923e6948d332",
+      "tag": "",
+      "parsed_at": "2026-10-17T05:18:42.314476+00:00"
+    }
+  ]
+}
