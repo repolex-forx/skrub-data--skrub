@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/skrub-data/skrub/commit/e17834a89ead64bdbddf12ab070a923e6948d332",
       "git:hexsha": "e17834a89ead64bdbddf12ab070a923e6948d332",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/skrub-data/skrub/commit/8febe652b7db7c639395772ee457be67552c562c",
